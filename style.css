@@ -6,6 +6,10 @@ body {
   padding-top: 4rem;
 }
 
+.row {
+  padding-top: 2rem;
+}
+
 .float {
   position: fixed;
   width: 60px;
